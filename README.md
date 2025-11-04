@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Databases (SQL) and Backend/Frontend (PHP, Javascript)**
 
-- 💬 Ask me about **Linux, C/C++, AI, Data Science**
+- 💬 Ask me about **Linux, Selfhosting, AI, Data Science**
 
 - 📫 How to reach me **sxp.oficial1234@gmail.com**
 
